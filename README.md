@@ -1,2 +1,2 @@
 # credentials-genny
-Public Credentials for genny config doc
+Credentials for Developers
