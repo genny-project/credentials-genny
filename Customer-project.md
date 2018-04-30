@@ -1,6 +1,6 @@
 ## Creating a Customer Project 
 1. Choose customer code 
--- Create a customer code which is the name of the project with no spaces and all lowercase. Ex: channel40, mentormatch.
+- Create a customer code which is the name of the project with no spaces and all lowercase. Ex: channel40, mentormatch.
 
 
 2. Choose Customer domain name
