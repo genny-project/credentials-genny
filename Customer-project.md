@@ -24,7 +24,7 @@
 
 
 6. Create Environment Variables
-- Copy the url of the repository and assign it to "CREDENTIALS_URL". Also create another env variable for the hidden genny folder containing the path.
+- Copy the url of the repository and assign it to "CREDENTIALS_URL". Also create another env variable for the hidden genny folder containing the path. Type on the console:
 
 ```
 export CREDENTIALS_URL=<Repo URL>
@@ -85,8 +85,7 @@ git push
 ```
 
 14. Check Your Work 
-- After completing all the steps now you can run the run-setup script in genny-main 
-and share it with the team.
+- After completing all the steps now you can run the run-setup script in genny-main and share it with the team.
 
 ```
 ./run-setup.sh -g https://github.com/<Your account name>/credentials-<Customer Code> -s <Customer Code>
