@@ -12,7 +12,11 @@
 
 
 4. Enable Google Sheets API
-- Go to [Google Developer Console](https://console.developers.google.com) and in [dashboard](https://console.developers.google.com/apis/library) search for Google Sheets API and click on enable. Then click in the hamburguer icon or API button on the left and navegate to [credentials](https://console.developers.google.com/apis/credentials). click in create credentials and select OAuth Client ID, application type other and type the name of the project.
+- Go to [Google Developer Console](https://console.developers.google.com) and in [dashboard](https://console.developers.google.com/apis/library) search for Google Sheets API and click on enable. 
+
+Then click in the hamburger icon or API button on the left and navigate to [credentials](https://console.developers.google.com/apis/credentials). 
+
+Click on the "create credentials" dropdown menu and select OAuth Client ID, application type: other and type the name of the project.
  
  
 5. Create a Github Repository
@@ -20,7 +24,7 @@
 
 
 6. Create Environment Variables
-- Copy the url of the repository a assign it to CREDENTIALS_URL also create another env variable for the hidden genny folder containing the path.
+- Copy the url of the repository and assign it to CREDENTIALS_URL also create another env variable for the hidden genny folder containing the path.
 
 ```
 export CREDENTIALS_URL=<Repo URL>
