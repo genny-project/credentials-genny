@@ -1,14 +1,14 @@
 ## Creating a Customer Project 
 1. Choose customer code 
-- Create a customer code which is the name of the project with no spaces and all lowercase. Ex: channel40, mentormatch.
+- Create a customer code which is the name of the project with no spaces and all lowercase. Ex: rolefy, mentormatch.
 
 
 2. Choose Customer domain name
-- Select the domain name such as channel40.com.au, mentormatch.com etc.
+- Select the domain name such as rolefy.com, mentormatch.com etc.
 
 
 3. Create a gmail account
-- Create a gmail account following the first accounts format as the convention ${domain}.user@gmail.com such as channel40.com.user@gmail.com,  mentormatch.com.user@gmail.com, etc.
+- Create a gmail account following the first accounts format as the convention ${domain}.user@gmail.com such as rolefy.com.user@gmail.com,  mentormatch.com.user@gmail.com, etc.
 
 
 4. Enable Google Sheets API
@@ -20,7 +20,7 @@
  
  
 5. Create a Github Repository
-- Create a repository on your personal or company account and give it a name with the following format. credentials-${customer_code}. Ex: credentials-channel40.
+- Create a repository on your personal or company account and give it a name with the following format. credentials-${customer_code}. Ex: credentials-rolefy.
 
 
 6. Create Environment Variables
